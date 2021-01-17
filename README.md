@@ -42,7 +42,7 @@ There are a lot of techniques to retrieve data swiftly from the database, e.g. I
 
 • Code Readability (Trying to add comments on major functions/method for better understanding)
 
-• Modified Web.config file in "DigitalApp Project" to run "ResfulAPI Project" e.g. <add key="ApiUrl" value="https://localhost:44349" />
+• Modified Web.config file in "DigitalApp Project" to run "ResfulAPI Project" e.g. key="ApiUrl" value="localhost:44349" />
   
 • Change Web.config name in RestfulAPI project for connection with MSSQL Server database through Entity Framework
 
