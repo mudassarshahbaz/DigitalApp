@@ -42,4 +42,8 @@ There are a lot of techniques to retrieve data swiftly from the database, e.g. I
 
 • Code Readability (Trying to add comments on major functions/method for better understanding)
 
-Database Files (Backup file and script file) are also uploaded in git repo
+• Modified Web.config file in "DigitalApp Project" to run "ResfulAPI Project" e.g. <add key="ApiUrl" value="https://localhost:44349" />
+  
+• Change Web.config name in RestfulAPI project for connection with MSSQL Server database through Entity Framework
+
+• Database Files (Backup file and script file) are also uploaded in git repo
