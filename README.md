@@ -9,6 +9,7 @@ Prerequisite Tools:
 
 
 Technologies Used:
+
 1: Bootstrap for Responsive design
 2: Jquery
 3: Javascript
