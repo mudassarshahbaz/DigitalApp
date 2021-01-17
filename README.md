@@ -15,7 +15,7 @@
 
 4: C# MVC 
 
-5: Entity Framework
+5: Entity Framework (6.0)
 
 6: MSSQL Server
 
