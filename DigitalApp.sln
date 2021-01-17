@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalApp", "DigitalApp.csproj", "{3BCE54BB-B4C4-4D4B-B59F-C3D764FAC502}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestfulAPI", "RestfulAPI\RestfulAPI.csproj", "{AFE2C6FA-2547-48AF-B438-BB788C96F7C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BCE54BB-B4C4-4D4B-B59F-C3D764FAC502}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BCE54BB-B4C4-4D4B-B59F-C3D764FAC502}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BCE54BB-B4C4-4D4B-B59F-C3D764FAC502}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BCE54BB-B4C4-4D4B-B59F-C3D764FAC502}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFE2C6FA-2547-48AF-B438-BB788C96F7C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFE2C6FA-2547-48AF-B438-BB788C96F7C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFE2C6FA-2547-48AF-B438-BB788C96F7C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFE2C6FA-2547-48AF-B438-BB788C96F7C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C512670B-517A-4361-9749-95B3CC57729E}
+	EndGlobalSection
+EndGlobal
